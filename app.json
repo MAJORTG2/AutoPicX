@@ -9,7 +9,7 @@
     "autopicx userbot",
     "autopicx"
   ],
-  "repository": "https://github.com/git-itsjoel/AutoPicX",
+  "repository": "https://github.com/git",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
